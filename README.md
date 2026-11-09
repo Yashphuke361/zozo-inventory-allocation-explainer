@@ -11,12 +11,11 @@ Team member	Roll no.
 Aditya Surya	25810005
 Yash Phuke	25810066
 Chirag Sharma	25810053
+
 ▶️ Watch the video
 
-Watch the video
 
-Click here to play ZOZO_Life_of_One_Order.mp4 (2:25 · 1080p · captions burnt in)
-
+C
 The full narration with timestamps is in docs/voiceover-script.md.
 
 🧩 The case in 60 seconds
